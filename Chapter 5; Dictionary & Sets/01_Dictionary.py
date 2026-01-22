@@ -1,3 +1,6 @@
+
+a = {}         # This is a empty dictionary.
+
 marks = {"Shami" : 100,
          "Savaiz" : 90,
          "Nomi" : 99,
