@@ -3,7 +3,7 @@
 list =[2, 5, 7, "Shami", "Savaiz", "Aqib", "Nomi", "Zubair", "Usama"]
 
 a = 0
-while(a<len(list)):
+while(a<len(list)):           
     print(list[a])
     a = a +1
 
